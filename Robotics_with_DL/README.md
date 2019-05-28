@@ -6,3 +6,7 @@
 - [Blog by Lilian Weng](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 - [CS294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+
+### Implementations of DRL Algorithms
+- [OpenAI Baselines](https://github.com/openai/baselines)
+- [rllab](https://github.com/rll/rllab)
