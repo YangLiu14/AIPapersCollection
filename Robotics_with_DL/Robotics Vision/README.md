@@ -5,6 +5,6 @@
 - This paper uses predefined edge and texture filter, did not use any neural networks.
 - Motion plan: PRM planner.
 - Related papers: 
-  - Learning to grasp novel objects using Vision (2006)
-  - 3D depth reconstruction from a single still image (2007)
-  - Learning 3D object orientation from images (2007)
+  - *Learning to grasp novel objects using Vision (2006)*
+  - *3D depth reconstruction from a single still image (2007)*
+  - *Learning 3D object orientation from images (2007)*
